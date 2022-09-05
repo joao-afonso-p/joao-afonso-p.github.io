@@ -331,27 +331,27 @@ ul#nav li.current a { color: #11ABB0; }
   	-webkit-animation: analytics 2s ease;
 }
 .artificial {
-  	width: 55%;
+  	width: 100%;
   	-moz-animation: artificial 2s ease;
   	-webkit-animation: artificial 2s ease;
 }
 .stats {
-  	width: 50%;
+  	width: 75%;
   	-moz-animation: stats 2s ease;
   	-webkit-animation: stats 2s ease;
 }
 .cloud {
-  	width: 90%;
+  	width: 60%;
   	-moz-animation: cloud 2s ease;
   	-webkit-animation: cloud 2s ease;
 }
 .python {
-  	width: 80%;
+  	width: 100%;
   	-moz-animation: python 2s ease;
   	-webkit-animation: python 2s ease;
 }
 .sql {
-  	width: 50%;
+  	width: 80%;
   	-moz-animation: sql 2s ease;
   	-webkit-animation: sql 2s ease;
 }
@@ -362,23 +362,23 @@ ul#nav li.current a { color: #11ABB0; }
 }
 @-moz-keyframes artificial {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 100%;  }
 }
 @-moz-keyframes stats {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 75%;  }
 }
 @-moz-keyframes cloud {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 60%;  }
 }
 @-moz-keyframes python {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 100%;  }
 }
 @-moz-keyframes sql {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
 }
 
 @-webkit-keyframes analytics {
@@ -387,23 +387,23 @@ ul#nav li.current a { color: #11ABB0; }
 }
 @-webkit-keyframes artificial {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 100%;  }
 }
 @-webkit-keyframes stats {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 75%;  }
 }
 @-webkit-keyframes cloud {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 60%;  }
 }
 @-webkit-keyframes python {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 100%;  }
 }
 @-webkit-keyframes sql {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
 }
 
 /* ------------------------------------------------------------------ */
