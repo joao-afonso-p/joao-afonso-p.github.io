@@ -358,7 +358,7 @@ ul#nav li.current a { color: #11ABB0; }
 
 @-moz-keyframes analytics {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 100%;  }
 }
 @-moz-keyframes artificial {
   0%   { width: 0px;  }
@@ -383,7 +383,7 @@ ul#nav li.current a { color: #11ABB0; }
 
 @-webkit-keyframes analytics {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 100%;  }
 }
 @-webkit-keyframes artificial {
   0%   { width: 0px;  }
