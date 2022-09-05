@@ -326,7 +326,7 @@ ul#nav li.current a { color: #11ABB0; }
 }
 
 .analytics {
-  	width: 60%;
+  	width: 100%;
   	-moz-animation: analytics 2s ease;
   	-webkit-animation: analytics 2s ease;
 }
