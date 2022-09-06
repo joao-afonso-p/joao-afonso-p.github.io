@@ -595,7 +595,7 @@ ul#nav li.current a { color: #11ABB0; }
 #call-to-action h1 span { display: none; }
 #call-to-action .header-col h1:before {
    font-family: 'FontAwesome';
-  
+   content: "\e3dd";
 	padding-right: 10px;
 	font-size: 72px;
    line-height: 72px;
